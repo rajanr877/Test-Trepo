@@ -1,3 +1,5 @@
 Welcome to confilict testing.
 
 line conf check
+
+another file added
